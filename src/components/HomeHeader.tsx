@@ -30,6 +30,7 @@ export function HomeHeader() {
 
         <Heading 
           color="gray.100"
+          fontFamily="heading"
         >
           Leonardo!
         </Heading>
